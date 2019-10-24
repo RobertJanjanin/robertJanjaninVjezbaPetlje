@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\bin\Debug\janjaninRobertVjezbaPetlje.exe.config
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\bin\Debug\janjaninRobertVjezbaPetlje.exe
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\bin\Debug\janjaninRobertVjezbaPetlje.pdb
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\obj\Debug\janjaninRobertVjezbaPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\obj\Debug\janjaninRobertVjezbaPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\obj\Debug\janjaninRobertVjezbaPetlje.exe
+C:\Users\3.D\source\repos\janjaninRobertVjezbaPetlje\janjaninRobertVjezbaPetlje\obj\Debug\janjaninRobertVjezbaPetlje.pdb
