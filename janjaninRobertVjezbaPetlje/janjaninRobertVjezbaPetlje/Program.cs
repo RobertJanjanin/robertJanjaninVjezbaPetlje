@@ -20,7 +20,7 @@ namespace robertJanjaninPetlje
 
             for (int i = unosTeksta.Length; i > 0; i--)
             {
-                Console.WriteLine(unosTeksta.Substring(0, i - 1));
+                Console.WriteLine(unosTeksta.Substring(0, i));
 
             }
             Console.ReadKey();
